@@ -1,0 +1,5 @@
+.DS_Store
+clash/logs
+clash
+coc
+nvim
